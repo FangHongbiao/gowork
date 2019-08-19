@@ -1,0 +1,83 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "JhTxW20N3k2y0W6wW7hqnxiG4k4=",
+			"path": "github.com/apache/thrift/lib/go/thrift",
+			"revision": "74d6d9d3d6400d1672f48b4acf5bc7d1260ad96d",
+			"revisionTime": "2019-08-05T12:23:29Z"
+		},
+		{
+			"checksumSHA1": "MN3frV9cBznAF8Hfb6yHb2NNZO4=",
+			"path": "mall/user",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "9LDq1uvA03nRRR8OnGL4RG7zils=",
+			"path": "rpc/src",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "5WNZ1jXlUnysZGBJYFLKxjN4An4=",
+			"path": "rpc/src/mall/order",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "UOEsALIBQHuebdrdbSjzCtxJlgI=",
+			"path": "rpc/src/mall/order/order_manager-remote",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Efv623yn1gt8MBdo61uPYesgtKY=",
+			"path": "rpc/src/mall/stock",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "AkzUjLheo4HfXiERqdewWy6K+zo=",
+			"path": "rpc/src/mall/stock/stock_manager-remote",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "YZJsvkUICQxRrxp/E6ZDM7GiEN0=",
+			"path": "rpc/src/mall/user",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "A1S1rIPzimdsxFHgFqNO4uUhJ6c=",
+			"path": "rpc/src/mall/user/user_manager-remote",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "pfAFBTVcSM89OgrTYyleIRBjfVE=",
+			"path": "rpc/src/shared",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "1eIvapjy+n/Dp7/ErEgp5TDr/LI=",
+			"path": "rpc/src/shared/shared_service-remote",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "rDQi4+5Z6Xgup0CiP/ogdp1Dgrc=",
+			"path": "rpc/src/tutorial",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "djqsYrnn+VkgtSrSole22lfhMbE=",
+			"path": "rpc/src/tutorial/calculator-remote",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "H2ruh23jXe4emARixFfFoQdugok=",
+			"path": "shared",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ST3fWn8ab8bNJ/P+IP9wOoZnuLk=",
+			"path": "tutorial",
+			"revision": ""
+		}
+	],
+	"rootPath": "rpc"
+}

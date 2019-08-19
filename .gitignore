@@ -1,0 +1,8 @@
+.idea/
+.cache/
+bin/
+pkg/
+src/github.com/
+src/*/vendor/*
+!src/*/vendor/vendor.json
+src/thrift/gen-go/*
